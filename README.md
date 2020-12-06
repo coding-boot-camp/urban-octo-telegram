@@ -1,22 +1,30 @@
-# Code Refactor Starter Code
-# Project Title
+_Adam's First Readdme_
+# Horiseon Social Solution Services
 ​
-Simple overview of use/purpose.
-​
+**Quick Look**
+![Image](​https://courses.bootcampspot.com/courses/467/files/336486/preview
+https://www.weborizer.com/wp-content/uploads/2020/08/SEO-concept-on-journal.jpg)
+
 ## Description
 ​
-An in-depth paragraph about your project and overview of use.
+Website for **Horiseon** is used to give potential customers insite as to how the company can use its search engine optimization, online reputation management, and social media marketing to increase the customers revenue.
 ​
 ## Getting Started
 ​
 ### Dependencies
 ​
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Windows 10
+* HTML
+* CSS
+
+### Compatibility
+* Chrome
+* Firefox
+* MS Edge
 ​
 ### Installing
 ​
-* How/where to download your program
+* 
 * Any modifications needed to be made to files/folders
 ​
 ### Executing program
@@ -53,7 +61,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 ​
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 ​
-## Acknowledgments
+## References and starter code
 ​
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
