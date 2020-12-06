@@ -3,7 +3,7 @@ _Adam's First Readdme_
 ​
 **Quick Look**
 ![Image](https://www.weborizer.com/wp-content/uploads/2020/08/SEO-concept-on-journal.jpg)
-
+![Image](./assets/images/demo.png)
 ## Description
 ​
 Website for **Horiseon** is used to give potential customers insite as to how the company can use its search engine optimization, online reputation management, and social media marketing to increase the customers revenue.
@@ -55,7 +55,7 @@ If you have any questions or concerns contact me at adamrfiles@gmail.com
 * 0.1
     * Initial Release
     * See [Commits history](https://github.com/AdamR-Work/HoriseonSEO/commits/master)
-​See 
+​
 ## License
 ​
 This project is licensed under the AdamR-Work License 
