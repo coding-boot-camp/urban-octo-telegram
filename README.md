@@ -2,14 +2,14 @@ _Adam's First Readdme_
 # Horiseon Social Solution Services
 ​
 **Quick Look**
-![Image](​https://courses.bootcampspot.com/courses/467/files/336486/preview
-https://www.weborizer.com/wp-content/uploads/2020/08/SEO-concept-on-journal.jpg)
+![Image](https://www.weborizer.com/wp-content/uploads/2020/08/SEO-concept-on-journal.jpg)
 
 ## Description
 ​
 Website for **Horiseon** is used to give potential customers insite as to how the company can use its search engine optimization, online reputation management, and social media marketing to increase the customers revenue.
 ​
-## Getting Started
+## Where were at, Where we need to be
+As of right now this site is only a quick,informative page. We still should add a Call to Action and Contact page/info.
 ​
 ### Dependencies
 ​
@@ -22,50 +22,41 @@ Website for **Horiseon** is used to give potential customers insite as to how th
 * Firefox
 * MS Edge
 ​
-### Installing
+### Work with Us
 ​
-* 
-* Any modifications needed to be made to files/folders
-​
-### Executing program
-​
-* How to run the program
-* Step-by-step bullets
+* Git Clone if you wish to collaborate 
 ```
-code blocks for commands
+git clone https://github.com/AdamR-Work/HoriseonSEO.git
 ```
+​
+### Site location
+​
+* https://adamr-work.github.io/Horiseon/
+
+
 ​
 ## Help
 ​
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+If you have any questions or concerns contact me at adamrfiles@gmail.com
 ​
 ## Authors
 ​
-Contributors names and contact info
-​
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+### Main Repository ###
+
+​Starting Code
+ **Xandromus**
+ [GitHub](https://github.com/coding-boot-camp/urban-octo-telegram)
 ​
 ## Version History
 ​
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * Cleaned up Html and Style Sheets. Add some accessiblity to pictures.
+    * [62cc383](https://github.com/AdamR-Work/HoriseonSEO/commit/62cc383648b3a7a515169ffc9adce49ffd830d73)
 * 0.1
     * Initial Release
-​
+    * See [Commits history](https://github.com/AdamR-Work/HoriseonSEO/commits/master)
+​See 
 ## License
 ​
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the AdamR-Work License 
 ​
-## References and starter code
-​
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
