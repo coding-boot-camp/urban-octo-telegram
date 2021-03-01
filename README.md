@@ -8,7 +8,7 @@ A website that details social media marketing services Horiseon offers.
 * CSS
 
 ## Website
-COPY PASTE HTTP HERE!!!!!!!!!!!!!!!
+https://heatherjswift.github.io/Horiseon/
 
 ## Contribution
 Made with ❤️ by Heather Swift

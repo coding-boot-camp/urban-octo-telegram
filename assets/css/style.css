@@ -8,6 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
 
 /* HEADER / NAVBAR STYLES START */
 header {
@@ -50,7 +53,7 @@ header div ul li {
 }
 /* HEADER / NAVBAR STYLES END */
 
-/* HERO STYLES START */
+/* HERO STYLE START */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,90 +62,44 @@ header div ul li {
     background-size: cover;
     background-position: center;
 }
-/* HERO STYLES END */
+/* HERO STYLE END */
 
 /* SECTION STYLES START */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-p {
-    font-size: 16px;
-}
-
-/* SEARCH ENGINE OPTIMIZATION STYLES */
-.search-engine-optimization {
+.content-box { 
+    display: flex;   
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.content-box img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* SEARCH ENGINE OPTIMIZATION STYLES END */
-
-/* ONLINE REPUTATION MANAGEMENT STYLES */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.online-reputation-management h2 {
+.content-box h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* ONLINE REPUTATION MANAGEMENT STYLES END */
-
-/* SOCIAL MEDIA MARKETING STYLES */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+.content-box:nth-child(odd)>div {
+    padding-left: 25px;
 }
 
-.social-media-marketing img {
-    max-height: 200px;
+.content-box:nth-child(even)>img {
+    order: 1;
 }
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.content-box:nth-child(even)>div {
+    padding-right: 25px;
 }
-/* SOCIAL MEDIA MARKETING STYLES END */
-
 /* SECTION STYLES END */
 
 /* LEAD GENERATION STYLES */
