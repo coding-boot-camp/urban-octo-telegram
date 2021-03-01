@@ -14,6 +14,7 @@ COPY PASTE HTTP HERE!!!!!!!!!!!!!!!
 Made with ❤️ by Heather Swift
 
 ## Screenshot
-![Horiseon website] (./assets/images/Horiseon-screenshot.png)
+![Horiseon-screenshot](https://user-images.githubusercontent.com/78330855/109436407-609c5400-79ed-11eb-8791-203433cd988a.png)
 
 ### ©️2019 Horiseon Social Solution Services, Inc
+
