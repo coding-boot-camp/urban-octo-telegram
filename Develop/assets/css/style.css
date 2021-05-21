@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-main {
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
