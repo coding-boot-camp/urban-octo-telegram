@@ -1,2 +1,3 @@
 # Code Refactor Starter Code
-Homeworke Challenge to refractor code
+Homework Challenge to refractor code
+The goal was to edit CSS and HTMl Code to make it accessible to all.
