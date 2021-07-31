@@ -1,9 +1,4 @@
-/* ================================= 
- Global rules and element rules
-==================================== */
-
 * {
-    /* Universal selector, clearing padding and margins */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -23,15 +18,9 @@ p {
 }
 
 
-/* ================================= 
- Structural content style
-==================================== */
-
-
-/* ---------- The Header ---------- */
+/*---- header visual elements ---- */
 
 .header {
-    /* Header format */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -43,12 +32,8 @@ p {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
 .header nav {
-    /* Navigation bar format */
+    color: #d9dcd6;
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -69,38 +54,23 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background: url("../images/digital-marketing-meeting.jpg") center / cover;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 
-/* ---------- Main content ---------- */
+/* --- Main content --- */
 
 .mainContent {
-    /* Main content format (without aside or benefits content */
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-#search-engine-optimization,
-#online-reputation-management,
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.float-left {
     float: left;
     margin-right: 25px;
 }
 
 .float-right {
-    float: right;
-    margin-left: 25px;
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 #search-engine-optimization img,
@@ -117,10 +87,9 @@ p {
 }
 
 
-/* ------- Additional content ------- */
+/* --- Additional content ---- */
 
 .benefits {
-    /* Aside content format */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -154,10 +123,9 @@ p {
 }
 
 
-/* --------- The Page Footer --------- */
+/* --- The Page Footer --- */
 
 .footer {
-    /* Page footer content */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
