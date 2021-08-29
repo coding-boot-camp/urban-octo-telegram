@@ -102,6 +102,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Made h2s the same size as browser deafult as h3s in the sidebar. */
+h2.side-bar {
+    font-size: 1.17em;
+}
 
 /* Consolidated content sections to fit one  */
 .content-section {
