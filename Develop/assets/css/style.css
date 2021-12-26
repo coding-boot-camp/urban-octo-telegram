@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
 }
+
 /*background color off white*/
 body {
     background-color: #d9dcd6;
@@ -43,7 +44,7 @@ body {
     margin-left: 25px;
 }
 
-/*tect on header is white*/
+/*text on header is white*/
 a {
     color: #ffffff;
     text-decoration: none;
