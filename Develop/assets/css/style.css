@@ -3,11 +3,12 @@
     padding: 0;
     margin: 0;
 }
-
+/*background color off white*/
 body {
     background-color: #d9dcd6;
 }
 
+/*sets background color of header blue and the letters h o r i and n white*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,6 +21,7 @@ body {
     font-size: 48px;
 }
 
+/*sets letters in header s e o and h1 light gray*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -41,6 +43,7 @@ body {
     margin-left: 25px;
 }
 
+/*tect on header is white*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/*hero style start*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +62,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*hero style ends*/
 
 .float-left {
     float: left;
@@ -75,6 +80,7 @@ p {
     margin-left: 20px;
 }
 
+/*sets background to light blue*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,7 +91,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*text color is white*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +108,7 @@ p {
     max-width: 150px;
 }
 
+/*sets background color in light blue and letters are white*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
