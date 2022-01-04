@@ -6,6 +6,8 @@
 
 body {
     background-color: #d9dcd6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 
 .header {
@@ -14,15 +16,17 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Insert Header Styles */ 
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+
 .header h1 .seo {
     color: #d9dcd6;
 }
+
 
 .header div {
     padding-top: 15px;
@@ -50,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.hero img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
