@@ -16,17 +16,16 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/*Insert Header Styles */ 
+
+/*Insert Header Styles Here*/ 
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-
 .header h1 .seo {
     color: #d9dcd6;
 }
-
 
 .header div {
     padding-top: 15px;
@@ -53,7 +52,9 @@ a {
 p {
     font-size: 16px;
 }
+/*Header Style END*/
 
+/*Insert Hero Styles Here*/
 .hero img {
     height: 800px;
     width: 100%;
@@ -61,6 +62,14 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+/*Hero Style END*/
+
+/*Contents and float property Section*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .float-left {
@@ -72,13 +81,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+/*section end */
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/*Benefits Section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,57 +91,25 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefits-side-bar {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/*benefits section END*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -191,7 +164,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*end of section*/
 
+/*Footer*/
 .footer {
     padding: 30px;
     clear: both;
@@ -202,3 +177,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*Footer Section Ends Here*/
