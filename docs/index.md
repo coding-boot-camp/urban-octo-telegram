@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-us">
 
-You can use the [editor on GitHub](https://github.com/digitald00m/urban-octo-telegram/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>Horiseon Search Engine Optimization</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <div class="header">
+        <h1>Hori<span class="seo">seo</span>n</h1>
+        <div>
+            <ul>
+                <li>
+                    <a href="#search-engine-optimization">Search Engine Optimization</a>
+                </li>
+                <li>
+                    <a href="#online-reputation-management">Online Reputation Management</a>
+                </li>
+                <li>
+                    <a href="#social-media-marketing">Social Media Marketing</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="hero">
+        <img src="./assets/images/digital-marketing-meeting.jpg" alt="Workers meeting around a table">
+    </div>
+    <div class="content">
+        <div class="search-engine-optimization">
+            <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="(SEO) A table holds a notebook which shows ways how to help SEO such as Link Building, Content, Headings, Backlink, Mobile Compatibility, and Social Media " />
+            <h2>Search Engine Optimization</h2>
+            <p>
+                The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
+            </p>
+        </div>
+        <div id="online-reputation-management" class="online-reputation-management">
+            <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="Reputation Increase" />
+            <h2>Online Reputation Management</h2>
+            <p>
+                The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
+            </p>
+        </div>
+        <div id="social-media-marketing" class="social-media-marketing">
+            <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="Different ways to market such as Tweeting, Sharing, or Liking" />
+            <h2>Social Media Marketing</h2>
+            <p>
+                Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
+            </p>
+        </div>
+    </div>
+    <div class="benefits">
+        <div class="benefit-lead">
+            <h3>Lead Generation</h3>
+            <img src="./assets/images/lead-generation.png" alt="Money Machine" />
+            <p>
+                Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
+            </p>
+        </div>
+        <div class="benefit-brand">
+            <h3>Brand Awareness</h3>
+            <img src="./assets/images/brand-awareness.png" alt="Brand Awareness" />
+            <p>
+                Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
+            </p>
+        </div>
+        <div class="benefit-cost">
+            <h3>Cost Management</h3>
+            <img src="./assets/images/cost-management.png" alt="Manage Cost"/>
+            <p>
+                As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
+            </p>
+        </div>
+    </div>
+    <div class="footer">
+        <h2>Made with ❤️️ by Horiseon</h2>
+        <p>
+            &copy; 2019 Horiseon Social Solution Services, Inc.
+        </p>
+    </div>
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digitald00m/urban-octo-telegram/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
