@@ -10,4 +10,3 @@ Website for **Horiseon** is used to help clients figure out the best way to opti
 ### Site location
 ​
 * https://github.com/digitald00m/urban-octo-telegram.git
-* file:///C:/Users/101ka/Documents/GitHub/urban-octo-telegram/Develop/index.html
