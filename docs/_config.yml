@@ -1,1 +1,1 @@
-theme: jekyll-theme-minimal
+theme: ./assets/css/style.css
