@@ -17,3 +17,6 @@ Landing page for a social media management company
 ### Languages used
 - HTML
 - CSS
+
+![Horiseon screen shot top!](/images/Horiseon-page-1.png "")
+![Horiseon screen shot bottom!](/images/Horiseon-page-2.png "")
