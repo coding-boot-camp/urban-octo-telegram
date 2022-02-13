@@ -18,5 +18,8 @@ Landing page for a social media management company
 - HTML
 - CSS
 
+#### Live URL
+https://marathonsandsushi.github.io/horiseon-landing-page/
+
 ![Horiseon screen shot top!](/images/Horiseon-page-1.png "")
 ![Horiseon screen shot bottom!](/images/Horiseon-page-2.png "")
