@@ -1,8 +1,19 @@
-# Code Refactor Starter Code
+# Horiseon Landing Page
 
-## Madison Kendall MSU first challenge. 
+## Description
+Landing page for a social media management company 
 
-### What I learned- 
+## Madison Kendall MSU first challenge
+**Main Objective**: Improve accessibility for a social media management company's landing page
+
+### What I learned
+#### Accessibility
+- `alt` attribute in `img` elements
+#### Other
 1. Semantic html
 2. Proper commenting practices
 3. Proper code refractoring practices
+
+### Languages used
+- HTML
+- CSS
