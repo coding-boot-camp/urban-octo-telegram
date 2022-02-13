@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-## Madison Kendall MSU urban-octo-telegram-mk project. 
+## Madison Kendall MSU first challenge. 
 
 ### What I learned- 
 1. Semantic html
