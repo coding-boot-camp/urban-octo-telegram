@@ -10,11 +10,13 @@
     margin: 0;
 }
 
-
+/* Body Styles Start */ 
 body {
     background-color: #d9dcd6;
 }
+/* Body Styles End */
 
+/* Header Styles Start */
 .header {
     padding: 20px;
     font-family: var(--primary-font);
@@ -47,6 +49,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* Header Styles End */ 
 
 a {
     color: var(--primary-color);
@@ -57,7 +60,7 @@ p {
     font-size: 16px;
 }
 
-/* Hero Style Start */
+/* Hero Styles Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -66,8 +69,9 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* Hero Style End */
+/* Hero Styles End */
 
+/* Article Styles Start */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -84,6 +88,26 @@ p {
     margin-left: 20px;
 }
 
+.main-info {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: var(--secondary-font);
+    background-color: #0072bb;
+    color: var(--primary-color);
+}
+
+.main-info img {
+    max-height: 200px;
+}
+
+.main-info h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Article Styles End */
+
+/* Benefits Section Styles Start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,24 +135,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Benefits Section Styles End */
 
-.main-info {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: var(--secondary-font);
-    background-color: #0072bb;
-    color: var(--primary-color);
-}
-
-.main-info img {
-    max-height: 200px;
-}
-
-.main-info h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* Footer Styles Start */
 
 .footer {
     padding: 30px;
@@ -141,3 +150,4 @@ p {
     font-size: 20px; 
 }
 
+/* Footer Styles End */
