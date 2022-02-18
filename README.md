@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Horiseon
@@ -14,3 +15,7 @@ A website development company>
 
 ## Contribution
 Made with ❤️ by [Rob Young]
+=======
+# Code Refactor Starter Code
+Horiseon Homepage
+>>>>>>> origin/main
