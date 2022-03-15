@@ -1,4 +1,4 @@
-/* Designed to increase efficiency in future site design*/
+/* Designed to increase efficiency in future site design */
 
 :root {
     --white: #ffffff;
@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: red;
 }
 
 .header {
