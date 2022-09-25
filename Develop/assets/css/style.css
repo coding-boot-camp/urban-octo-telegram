@@ -85,11 +85,11 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-.user-benefits {
-    margin-top: 10px;
-    color:#ffffff
-    
+.user-benefits h2 {
+    font-style:oblique;
+    color:rgb(243, 176, 110);
 }
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -104,8 +104,9 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-.User-Benfits h2 {
+.user-benefits h2 {
     margin-top: 10px;
+    margin-bottom: 10px;
     text-align: center;
 }
 .benefit-lead h3 {
