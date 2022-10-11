@@ -54,7 +54,7 @@ header nav ul li {
 /*--------END HEADER ELEMENTS-----------*/
 
 /*--------MAIN ELEMENTS-----------------*/
-figure img {
+#hero {
     height: 1200px;
     width: 100%;
     margin-bottom: 25px;
@@ -77,15 +77,14 @@ main div {
     color: #ffffff;
 }
 
-main div h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 main div img {
     max-height: 200px;
 }
 
+main div h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
 .float-left {
     float: left;
