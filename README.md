@@ -1,4 +1,8 @@
 Project 1 UOFT Bootcamp
+
+
+
+
 Description:
 Website includes information for businesses to implement in order to be more successful. 
 Functionality
