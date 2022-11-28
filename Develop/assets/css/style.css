@@ -76,7 +76,7 @@ p {
 }
 
 .benefits {
-    margin-right: 20px;
+    margin-right: auto;
     padding: 20px;
     clear: both;
     float: right;
@@ -197,4 +197,52 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+/*Media screen used to adjust boxes so that they fit the wrapped flexboxes as they stretch*/
+
+@media screen and (max-width: 992px) {
+    /*Sets the header to a different height so it can hold the div ul elements as they display vertically*/
+    .header {
+        height: 170px;
+    }
+    /*Aligns text to the right so they don't interfere with the title and has them stack vertically as the flex*/
+    .header div ul {
+        text-align: right;
+        flex-direction: column;
+    }
+    /*Set all the content class divs to a height of 550px so they can hold all the flexboxed content*/
+    .search-engine-optimization {
+        height: 550px;
+    }
+    .online-reputation-management {
+        height: 550px;
+    }
+    .social-media-marketing {
+        height: 550px;
+    }
+    /*Set all the titles of the benefit class to a smaller font size so they can appear in full on smaller screens*/
+    .benefit-lead h3 {
+        font-size: 12px;
+    }
+    .benefit-brand h3 {
+        font-size: 12px;
+    }
+    .benefit-cost h3 {
+        font-size: 12px;
+    }
+}
+
+/*Another media screen used to hide the images on the side bar when the screen size becomes much smaller*/
+
+@media screen and (max-width: 768px) {
+    .benefit-lead img {
+        display: none;
+    }
+    .benefit-brand img {
+        display: none;
+    }
+    .benefit-cost img {
+        display: none;
+    }
 }
