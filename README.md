@@ -13,7 +13,8 @@
       <li>Problem 3: Logical structure independent of styling and positioning on the HTML Doc</li>
       <li>Problem 4: Descriptive Title
     </ul>
-    <h2>Contributing</h2>
-    <p>🎉 Thank you 🎉 </p>
+    <h2>Photos</h2>
+    <img src="https://via.placeholder.com/300x200" alt="Preview Image">
+    <img src="https://via.placeholder.com/300x200" alt="Preview Image">
   </body>
 </html>
