@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>README</title>
   </head>
   <body>
     <h1>Project Title</h1>
