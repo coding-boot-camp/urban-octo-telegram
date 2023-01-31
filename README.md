@@ -14,7 +14,7 @@
       <li>Problem 4: Descriptive Title
     </ul>
     <h2>Photos</h2>
-    <img src="https://via.placeholder.com/300x200" alt="Preview Image">
-    <img src="https://via.placeholder.com/300x200" alt="Preview Image">
+    <img src="assets\Example1.png" alt="Preview Image">
+    <img src="assets\Example2.png" alt="Preview Image">
   </body>
 </html>
