@@ -14,6 +14,6 @@
       <li>Problem 4: Descriptive Title
     </ul>
     <h2>Contributing</h2>
-    <p>Contribution guidelines for this project.</p>
+    <p>🎉 Thank you 🎉 </p>
   </body>
 </html>
