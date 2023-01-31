@@ -16,5 +16,7 @@
     <h2>Photos</h2>
     <img src="assets\Example1.png" alt="Preview Image">
     <img src="assets\Example2.png" alt="Preview Image">
+    <h2>Link</h2>
+    <p>https://cxxrupt.github.io/Horiseon-Static/</p>
   </body>
 </html>
