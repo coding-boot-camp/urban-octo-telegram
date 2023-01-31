@@ -1,4 +1,5 @@
 * {
+    /*box-sizing property to border-box, setting the padding to 0, and setting the margin to 0*/
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -37,6 +38,7 @@ body {
 }
 
 .header div ul li {
+    /* Element to be displayed inline with other elements, and the left margin will be 25px*/
     display: inline-block;
     margin-left: 25px;
 }
@@ -47,10 +49,12 @@ a {
 }
 
 p {
+    /*Font size set to base 16px*/
     font-size: 16px;
 }
 
 .hero {
+    /* Setting the height of the Image to 800 pixels, setting the width to 100%, adding a margin of 25 pixels to the bottom, and setting a background image with a size of cover and a position of center*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
