@@ -1,1 +1,1 @@
-# Code Refactor Starter Code
+# Made index.html accessible
