@@ -31,12 +31,12 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header div ul {
+/*changed from div to nav*/
+.header nav ul {
     list-style-type: none;
 }
-
-.header div ul li {
+/*changed from div to nav*/
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
