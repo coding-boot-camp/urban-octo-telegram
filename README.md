@@ -32,3 +32,10 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Main Changes for Assigment
+
+Changed main title for website
+Combined code for CSS to reduce repetitive code
+Changed Div to alt attributes
+Created Alt code to images
