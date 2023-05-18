@@ -11,7 +11,7 @@ Since this is a simple webpage, no installation is necessary. Just clone the rep
 ## Usage
 
 This site can be used to learn about Horiseon's services, which include Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
-![](images/Search%20Engine%20Optimization.png)
+![](main/Develop/assets/images/Search%20Engine%20Optimization.png)
 
 ## Contributing
 
