@@ -198,3 +198,39 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+@media screen and (max-width: 768px) {
+    h1, h2 {
+        color: antiquewhite;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    ul {
+        font-size:10px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    p {
+        font-size:14px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .online-reputation-management, .social-media-marketing, .search-engine-optimization {
+        color: #ffffff;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .search-engine-optimization, .online-reputation-management, .social-media-marketing {
+        background-color: #2c4d32;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .benefits, .benefit-lead, .benefit-brand, .benefit-cost {
+        background-color: #507557;
+    }
+}
+
