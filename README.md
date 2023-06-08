@@ -11,5 +11,5 @@ Module 1 assignment. Had to fix the css selectors and properties by consolidatin
 Aaron Morales
 
 ## Screenshot
-![alt text] (Horiseon - Google Chrome 6_7_2023 10_33_36 PM.png)
-![alt text] (Horiseon - Google Chrome 6_7_2023 10_33_45 PM.png)
+![alt text] (C:\Users\itsad\Videos\Captures\Horiseon - Google Chrome 6_7_2023 10_33_36 PM.png)
+![alt text] (C:\Users\itsad\Videos\Captures\Horiseon - Google Chrome 6_7_2023 10_33_45 PM.png)
