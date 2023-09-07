@@ -1,18 +1,18 @@
 * {
     box-sizing: border-box;
     padding: 0;
-    margin: 0;
+    margin: 5px;
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #1d86af;
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
+    background-color: #143f54;
+    color: #0a337a;
 }
 
 .header h1 {
@@ -40,7 +40,43 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* Made a place in css for the nav bar
+ */
+ #navbar  {
+    position: relative;
+    margin-left: 25%;
+    border: 5px solid white ;
+    width: 55%;
+    height: 100%;
+}
 
+#navbar ul {
+    display: inline-block;
+    border-radius: 10px;
+    position: absolute;
+}
+
+#navbar li {
+    list-style: none;
+    position: relative;
+    display: inline-block;  
+}
+
+#navbar ul li a {
+    text-decoration: none;
+    text-align: center;
+    color:white;
+    height:30px;
+    width:40px;
+    display: block;
+}
+#navbar ul ul {
+    display:none;
+    position:absolute;
+}
+#navbar ul li:hover ul {
+    display:block;  
+}
 a {
     color: #ffffff;
     text-decoration: none;
